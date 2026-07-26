@@ -1,4 +1,4 @@
-<img width="651" height="254" alt="image" src="https://github.com/user-attachments/assets/f336adb9-63ae-4d83-8c97-7184fce776e1" /># Tauri Setup on Linux (Ubuntu/Debian)
+# Tauri Setup on Linux (Ubuntu/Debian)
 
 This guide walks through installing everything required to develop **Tauri** applications on Ubuntu and Debian-based Linux distributions.
 
